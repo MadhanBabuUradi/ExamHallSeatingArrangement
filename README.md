@@ -1,4 +1,6 @@
+#ExamHallSeatingArrangement
 It's a full stack project , which includes both the front-end & back-end . 
+
 
 
 The exam hall seating arrangement system automates seat allocation for exams, reducing manual work for administrators and offering convenience for students. It features secure logins, an admin panel for managing exams and student lists, and automated seat assignments based on availability and special needs. The system is flexible, scalable, and secure, with a focus on efficiency and user experience.
